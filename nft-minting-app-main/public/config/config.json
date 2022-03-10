@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x445007c994f2d61a5183cf50daab5f51e38b0ef901f17da745d3bf527d230a7d",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/tx/0x445007c994f2d61a5183cf50daab5f51e38b0ef901f17da745d3bf527d230a7d",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "WhimsyChameleon Test NFT",
+  "SYMBOL": "WC",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/whimsychameleon",
+  "SHOW_BACKGROUND": true
+}
